@@ -1,0 +1,15 @@
+Setup:
+Php 8
+Composer
+Import DB:
+	User name DB: web_ban_giay
+cd ban_giay_L9
+php artisan serve
+Login admin: ../admin-auth/login
+	admin@gmail.com
+	12345678
+Login user: ../account/login
+	thanhlam@gmail.com
+	12345678
+	nthanhtrung@gmail.com
+	12345678
